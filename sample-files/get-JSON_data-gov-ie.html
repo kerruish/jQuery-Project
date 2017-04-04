@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>jQuery.getJSON demo</title>
+    <style>
+        #myData {
+            height: 400px;
+            width: 600px;
+            border: 2px dotted black;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+
+
+
+<script>
+    function getObjects(obj, key, val) {
+        var objects = [];
+        for (var i in obj) {
+            if (!obj.hasOwnProperty(i)) continue;
+            if (typeof obj[i] == 'object') {
+                objects = objects.concat(getObjects(obj[i], key, val));
+            } else if (i == key && obj[key] == val) {
+                objects.push(obj);
+            }
+        }
+        return objects;
+    }
+
+
+
+    $(document).ready(function(){
+        $("button").click(function(){
+            console.log("CLICKED");
+            $.get("http://www.cso.ie/StatbankServices/StatbankServices.svc/jsonservice/responseinstance/PEA01", function(result){
+
+                console.log("result");
+                console.log(result);
+                console.log("result.dataset");
+                console.log(result.dataset);
+                console.log("result.dimension");
+                console.log(result.dimension);
+                console.log("result.category");
+                console.log(result.category);
+                console.log("result.index");
+                console.log(result.index);
+
+
+//                $.each(json.people.person, function(i, v) {
+//                    if (v.name.search(new RegExp(/peter/i)) != -1) {
+//                        alert(v.age);
+//                        return;
+//                    }
+
+         //       result.getObjects(TestObj, 'id', 'A');
+
+
+                $.each(result, function(i, field){
+                    $("div").append(field + " ");
+                });
+            });
+        });
+    });
+
+
+
+</script>
+<button>Get JSON data</button>
+<div id="myData"></div>
+</body>
+</html>
