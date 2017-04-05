@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+    <script src="http://code.highcharttable.org/master/jquery.highchartTable-min.js"></script>
+
+    <script src="sol.js"></script>
+
+    <link rel="stylesheet" href="dreamslider.min.css">
+ <!--   <script src="//code.jquery.com/jquery-2.2.0.min.js"></script> -->
+    <script src="dreamslider.min.js"></script>
+
+
+    </head>
+<style>
+    img {
+        height: 100px;
+        width: 200px;
+        margin-left: 5px;
+    }
+</style>
+
+
+<body>
+
+
+<table class="highchart" data-graph-container-before="1" data-graph-type="column" style="display:none" data-graph-datalabels-enabled="1" data-graph-datalabels-color="white">
+    <thead>
+    <tr>
+        <th></th>
+        <th data-graph-stack-group="1">Population</th>
+        <th data-graph-stack-group="1" data-graph-datalabels-color="blue">female</th>
+        <th data-graph-stack-group="1" data-graph-datalabels-color="red">Male</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>sligo</td>
+        <td>2000</td>
+        <td>1200</td>
+        <td>800</td>
+    </tr>
+    <tr>
+        <td>galway</td>
+        <td>3500</td>
+        <td>2000</td>
+        <td>1500</td>
+    </tr>
+    <tr>
+        <td>dublin</td>
+        <td>5000</td>
+        <td>3000</td>
+        <td>2000</td>
+    </tr>
+    </tbody>
+</table>
+
+<br>
+<br>
+
+<div class="container">
+<div id="images"></div>
+</div>
+<script>
+    (function() {
+        var flickerAPI = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
+        $.getJSON( flickerAPI, {
+            tags: "mount rainier",
+            tagmode: "any",
+            format: "json"
+        })
+                .done(function( data ) {
+                    $.each( data.items, function( i, item ) {
+                        $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
+                        if ( i === 3 ) {
+                            return false;
+                        }
+                    });
+                });
+    })();
+</script>
+
+<script>
+    $('.container').dreamSlider({
+        rowCount:3,
+    easeEffect: 'bounce'
+    });
+
+</script>
+
+
+</body>
+</html>
