@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+</head>
+<body>
+
+<script>
+    $(document).ready(function () {
+        localhost = {};  // global namespace variable
+        localhost.changePercentageAll = [];
+        localhost.changePercentageABT = [];
+        localhost.changePercentageCF = [];
+        localhost.changePercentageHWEGF = [];
+        localhost.changePercentageFH = [];
+        localhost.changePercentageH = [];
+        localhost.changePercentageT = [];
+        localhost.changePercentageC = [];
+        localhost.changePercentageRC = [];
+        localhost.changePercentageEd = [];
+        localhost.changePercentageRH = [];
+        localhost.changePercentageMiscGS = [];
+
+        localhost.changeYear = [];
+
+        $.ajax({
+            url: 'CPA01.json',
+            cache: false,
+            dataType: 'json',
+            context: localhost,
+            success: function(data) {
+                for (var i = 0; i < data.length; i++) {
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                          && data[i]["Commodity Group"] == "All items"
+                    ) {
+                        localhost.changePercentageAll.push(data[i].value);
+                        localhost.changeYear.push(data[i].Year);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Alcoholic beverages and tobacco"
+                    ) {
+                        localhost.changePercentageABT.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Clothing and footwear"
+                    ) {
+                        localhost.changePercentageCF.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Housing, water, electricity, gas and other fuels"
+                    ) {
+                        localhost.changePercentageHWEGF.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Furnishings, household equipment and routine household maintenance"
+                    ) {
+                        localhost.changePercentageFH.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Health"
+                    ) {
+                        localhost.changePercentageH.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Transport"
+                    ) {
+                        localhost.changePercentageT.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Communications"
+                    ) {
+                        localhost.changePercentageC.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Recreation and culture"
+                    ) {
+                        localhost.changePercentageRC.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Education"
+                    ) {
+                        localhost.changePercentageEd.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Restaurants and hotels"
+                    ) {
+                        localhost.changePercentageRH.push(data[i].value);
+                    }
+                    if (   data[i].Statistic == "Annual Average Percentage Change in Consumer Price Index (%)"
+                        && data[i]["Commodity Group"] == "Miscellaneous goods and services"
+                    ) {
+                        localhost.changePercentageMiscGS.push(data[i].value);
+                    }
+
+                }
+                $("#container").css({height : '800px'});
+                var options = {
+                    chart: {
+                        renderTo: 'container',
+                        type: 'line'
+                    },
+                    title: {
+                        text: 'Consumer Price Index'
+                    },
+                    xAxis: {
+                        categories: localhost.changeYear
+                    },
+                    legend: {
+                        layout: 'vertical',
+                        align: 'right',
+                        verticalAlign: 'top',
+                        x: 0,
+                        y: 0,
+                        floating: true,
+                        borderWidth: 1,
+                        backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
+                        shadow: true
+                    },
+                    series: [{
+                        name: 'CPI Change % - All Items',
+                        lineWidth: 5,
+                        dashStyle: 'shortdash',
+                        data: localhost.changePercentageAll
+                    },{
+                        name: 'CPI Change % - Alcohol, beverages and tobacco',
+                        data: localhost.changePercentageABT,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Clothing and Footware',
+                        data: localhost.changePercentageCF,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Housing, water, electricity, gas and other fuels',
+                        data: localhost.changePercentageHWEGF,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Furnishings, household equipment and routine household maintenance',
+                        data: localhost.changePercentageFH,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Health',
+                        data: localhost.changePercentageH,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Transport',
+                        data: localhost.changePercentageT,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Communications',
+                        data: localhost.changePercentageC,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Recreation and culture',
+                        data: localhost.changePercentageRC,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Education',
+                        data: localhost.changePercentageEd,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Restaurants and hotels',
+                        data: localhost.changePercentageRH,
+                        visible: false
+                    },{
+                        name: 'CPI Change % - Miscellaneous goods and services',
+                        data: localhost.changePercentageMiscGS,
+                        visible: false
+                    }]
+                };
+                var chart = new Highcharts.Chart(options)
+            }
+        });
+    });
+</script>
+
+<div id="container"></div>
+
+</body>
+</html>
+
