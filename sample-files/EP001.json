@@ -1,0 +1,3698 @@
+[
+    {
+        "value": 4588252,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4757976,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 169724,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 3.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 54612,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 56875,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2263,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4.1,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1273069,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1345402,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 72333,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 527612,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 553165,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 25553,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 265205,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 278749,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 13544,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5.1,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 273991,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 296214,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 22223,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 8.1,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 206261,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 217274,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 11013,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 210312,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 222130,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 11818,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 95419,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 99118,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 3699,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 3.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 80559,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 84732,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4173,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 39000,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 40810,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1810,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 122897,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 128375,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5478,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 184135,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 194942,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 10807,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 76687,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 78003,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1316,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 86164,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 88396,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2232,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 145320,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 149605,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4285,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 136640,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 142332,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5692,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 117196,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 118627,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1431,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 519032,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 542196,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 23164,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 119230,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 125622,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 6392,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 399802,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 416574,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 16772,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 145502,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 147554,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2052,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 191809,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 195175,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 3366,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 57106,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 58319,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1213,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2.1,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 134703,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 136856,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2153,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 70322,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 71370,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1048,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 88432,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 89071,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 639,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 0.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 113795,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 116401,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2606,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 46732,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 48369,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1637,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 3.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 67063,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 68032,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 969,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 250653,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 258552,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 7899,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 3.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 75529,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 79504,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 3975,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 175124,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 179048,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 3924,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 31798,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 31972,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 174,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 0.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 130638,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 130425,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": -213,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": -0.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 64065,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 64436,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 371,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 0.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 65393,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 65357,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": -36,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": -0.1,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 73183,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 76092,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2909,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 161137,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 158755,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": -2382,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": -1.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 60483,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 61273,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 790,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2504814,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2630720,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 125906,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1246088,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1280394,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 34306,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 542547,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 550742,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 8195,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 294803,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 296120,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 1317,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 0.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Both sexes"
+    },
+    {
+        "value": 2272699,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Male"
+    },
+    {
+        "value": 2352240,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Male"
+    },
+    {
+        "value": 79541,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Male"
+    },
+    {
+        "value": 3.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Male"
+    },
+    {
+        "value": 27431,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Male"
+    },
+    {
+        "value": 28472,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Male"
+    },
+    {
+        "value": 1041,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Male"
+    },
+    {
+        "value": 3.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Male"
+    },
+    {
+        "value": 619902,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Male"
+    },
+    {
+        "value": 657190,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Male"
+    },
+    {
+        "value": 37288,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Male"
+    },
+    {
+        "value": 6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Male"
+    },
+    {
+        "value": 257303,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Male"
+    },
+    {
+        "value": 271436,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Male"
+    },
+    {
+        "value": 14133,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Male"
+    },
+    {
+        "value": 5.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Male"
+    },
+    {
+        "value": 129544,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Male"
+    },
+    {
+        "value": 136275,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Male"
+    },
+    {
+        "value": 6731,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Male"
+    },
+    {
+        "value": 5.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Male"
+    },
+    {
+        "value": 134488,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Male"
+    },
+    {
+        "value": 145209,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Male"
+    },
+    {
+        "value": 10721,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Male"
+    },
+    {
+        "value": 8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Male"
+    },
+    {
+        "value": 98567,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Male"
+    },
+    {
+        "value": 104270,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Male"
+    },
+    {
+        "value": 5703,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Male"
+    },
+    {
+        "value": 5.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Male"
+    },
+    {
+        "value": 104658,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Male"
+    },
+    {
+        "value": 110340,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Male"
+    },
+    {
+        "value": 5682,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Male"
+    },
+    {
+        "value": 5.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Male"
+    },
+    {
+        "value": 47788,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Male"
+    },
+    {
+        "value": 49479,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Male"
+    },
+    {
+        "value": 1691,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Male"
+    },
+    {
+        "value": 3.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Male"
+    },
+    {
+        "value": 40587,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Male"
+    },
+    {
+        "value": 42808,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Male"
+    },
+    {
+        "value": 2221,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Male"
+    },
+    {
+        "value": 5.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Male"
+    },
+    {
+        "value": 19649,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Male"
+    },
+    {
+        "value": 20515,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Male"
+    },
+    {
+        "value": 866,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Male"
+    },
+    {
+        "value": 4.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Male"
+    },
+    {
+        "value": 60763,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Male"
+    },
+    {
+        "value": 63454,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Male"
+    },
+    {
+        "value": 2691,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Male"
+    },
+    {
+        "value": 4.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Male"
+    },
+    {
+        "value": 91910,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Male"
+    },
+    {
+        "value": 96714,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Male"
+    },
+    {
+        "value": 4804,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Male"
+    },
+    {
+        "value": 5.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Male"
+    },
+    {
+        "value": 38430,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Male"
+    },
+    {
+        "value": 38896,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Male"
+    },
+    {
+        "value": 466,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Male"
+    },
+    {
+        "value": 1.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Male"
+    },
+    {
+        "value": 42783,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Male"
+    },
+    {
+        "value": 43897,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Male"
+    },
+    {
+        "value": 1114,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Male"
+    },
+    {
+        "value": 2.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Male"
+    },
+    {
+        "value": 71909,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Male"
+    },
+    {
+        "value": 73632,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Male"
+    },
+    {
+        "value": 1723,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Male"
+    },
+    {
+        "value": 2.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Male"
+    },
+    {
+        "value": 67542,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Male"
+    },
+    {
+        "value": 70136,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Male"
+    },
+    {
+        "value": 2594,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Male"
+    },
+    {
+        "value": 3.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Male"
+    },
+    {
+        "value": 58298,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Male"
+    },
+    {
+        "value": 58721,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Male"
+    },
+    {
+        "value": 423,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Male"
+    },
+    {
+        "value": 0.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Male"
+    },
+    {
+        "value": 257470,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Male"
+    },
+    {
+        "value": 268221,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Male"
+    },
+    {
+        "value": 10751,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Male"
+    },
+    {
+        "value": 4.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Male"
+    },
+    {
+        "value": 58812,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Male"
+    },
+    {
+        "value": 61677,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Male"
+    },
+    {
+        "value": 2865,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Male"
+    },
+    {
+        "value": 4.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Male"
+    },
+    {
+        "value": 198658,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Male"
+    },
+    {
+        "value": 206544,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Male"
+    },
+    {
+        "value": 7886,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Male"
+    },
+    {
+        "value": 4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Male"
+    },
+    {
+        "value": 72629,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Male"
+    },
+    {
+        "value": 73039,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Male"
+    },
+    {
+        "value": 410,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Male"
+    },
+    {
+        "value": 0.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Male"
+    },
+    {
+        "value": 95815,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Male"
+    },
+    {
+        "value": 97377,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Male"
+    },
+    {
+        "value": 1562,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Male"
+    },
+    {
+        "value": 1.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Male"
+    },
+    {
+        "value": 27947,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Male"
+    },
+    {
+        "value": 28639,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Male"
+    },
+    {
+        "value": 692,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Male"
+    },
+    {
+        "value": 2.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Male"
+    },
+    {
+        "value": 67868,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Male"
+    },
+    {
+        "value": 68738,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Male"
+    },
+    {
+        "value": 870,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Male"
+    },
+    {
+        "value": 1.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Male"
+    },
+    {
+        "value": 35340,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Male"
+    },
+    {
+        "value": 35583,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Male"
+    },
+    {
+        "value": 243,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Male"
+    },
+    {
+        "value": 0.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Male"
+    },
+    {
+        "value": 44244,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Male"
+    },
+    {
+        "value": 44595,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Male"
+    },
+    {
+        "value": 351,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Male"
+    },
+    {
+        "value": 0.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Male"
+    },
+    {
+        "value": 56464,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Male"
+    },
+    {
+        "value": 57779,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Male"
+    },
+    {
+        "value": 1315,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Male"
+    },
+    {
+        "value": 2.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Male"
+    },
+    {
+        "value": 22921,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Male"
+    },
+    {
+        "value": 23850,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Male"
+    },
+    {
+        "value": 929,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Male"
+    },
+    {
+        "value": 4.1,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Male"
+    },
+    {
+        "value": 33543,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Male"
+    },
+    {
+        "value": 33929,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Male"
+    },
+    {
+        "value": 386,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Male"
+    },
+    {
+        "value": 1.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Male"
+    },
+    {
+        "value": 124758,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Male"
+    },
+    {
+        "value": 127819,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Male"
+    },
+    {
+        "value": 3061,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Male"
+    },
+    {
+        "value": 2.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Male"
+    },
+    {
+        "value": 36514,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Male"
+    },
+    {
+        "value": 38207,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Male"
+    },
+    {
+        "value": 1693,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Male"
+    },
+    {
+        "value": 4.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Male"
+    },
+    {
+        "value": 88244,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Male"
+    },
+    {
+        "value": 89612,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Male"
+    },
+    {
+        "value": 1368,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Male"
+    },
+    {
+        "value": 1.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Male"
+    },
+    {
+        "value": 16144,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Male"
+    },
+    {
+        "value": 16032,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Male"
+    },
+    {
+        "value": -112,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Male"
+    },
+    {
+        "value": -0.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Male"
+    },
+    {
+        "value": 65420,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Male"
+    },
+    {
+        "value": 64879,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Male"
+    },
+    {
+        "value": -541,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Male"
+    },
+    {
+        "value": -0.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Male"
+    },
+    {
+        "value": 32353,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Male"
+    },
+    {
+        "value": 32316,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Male"
+    },
+    {
+        "value": -37,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Male"
+    },
+    {
+        "value": -0.1,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Male"
+    },
+    {
+        "value": 32435,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Male"
+    },
+    {
+        "value": 32304,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Male"
+    },
+    {
+        "value": -131,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Male"
+    },
+    {
+        "value": -0.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Male"
+    },
+    {
+        "value": 37013,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Male"
+    },
+    {
+        "value": 38355,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Male"
+    },
+    {
+        "value": 1342,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Male"
+    },
+    {
+        "value": 3.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Male"
+    },
+    {
+        "value": 80523,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Male"
+    },
+    {
+        "value": 78858,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Male"
+    },
+    {
+        "value": -1665,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Male"
+    },
+    {
+        "value": -2.1,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Male"
+    },
+    {
+        "value": 30441,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Male"
+    },
+    {
+        "value": 30829,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Male"
+    },
+    {
+        "value": 388,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Male"
+    },
+    {
+        "value": 1.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Male"
+    },
+    {
+        "value": 1233352,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Male"
+    },
+    {
+        "value": 1295533,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Male"
+    },
+    {
+        "value": 62181,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Male"
+    },
+    {
+        "value": 5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Male"
+    },
+    {
+        "value": 620260,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Male"
+    },
+    {
+        "value": 635315,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Male"
+    },
+    {
+        "value": 15055,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Male"
+    },
+    {
+        "value": 2.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Male"
+    },
+    {
+        "value": 271110,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Male"
+    },
+    {
+        "value": 273350,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Male"
+    },
+    {
+        "value": 2240,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Male"
+    },
+    {
+        "value": 0.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Male"
+    },
+    {
+        "value": 147977,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Male"
+    },
+    {
+        "value": 148042,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Male"
+    },
+    {
+        "value": 65,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Male"
+    },
+    {
+        "value": 0,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Male"
+    },
+    {
+        "value": 2315553,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Female"
+    },
+    {
+        "value": 2405736,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Female"
+    },
+    {
+        "value": 90183,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Female"
+    },
+    {
+        "value": 3.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "State",
+        "Sex": "Female"
+    },
+    {
+        "value": 27181,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Female"
+    },
+    {
+        "value": 28403,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Female"
+    },
+    {
+        "value": 1222,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Carlow",
+        "Sex": "Female"
+    },
+    {
+        "value": 653167,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Female"
+    },
+    {
+        "value": 688212,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Female"
+    },
+    {
+        "value": 35045,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Female"
+    },
+    {
+        "value": 5.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin",
+        "Sex": "Female"
+    },
+    {
+        "value": 270309,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Female"
+    },
+    {
+        "value": 281729,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Female"
+    },
+    {
+        "value": 11420,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Dublin City",
+        "Sex": "Female"
+    },
+    {
+        "value": 135661,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Female"
+    },
+    {
+        "value": 142474,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Female"
+    },
+    {
+        "value": 6813,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Female"
+    },
+    {
+        "value": 5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "South Dublin",
+        "Sex": "Female"
+    },
+    {
+        "value": 139503,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Female"
+    },
+    {
+        "value": 151005,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Female"
+    },
+    {
+        "value": 11502,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Female"
+    },
+    {
+        "value": 8.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Fingal",
+        "Sex": "Female"
+    },
+    {
+        "value": 107694,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Female"
+    },
+    {
+        "value": 113004,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Female"
+    },
+    {
+        "value": 5310,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Dún Laoghaire-Rathdown",
+        "Sex": "Female"
+    },
+    {
+        "value": 105654,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Female"
+    },
+    {
+        "value": 111790,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Female"
+    },
+    {
+        "value": 6136,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Female"
+    },
+    {
+        "value": 5.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Kildare",
+        "Sex": "Female"
+    },
+    {
+        "value": 47631,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Female"
+    },
+    {
+        "value": 49639,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Female"
+    },
+    {
+        "value": 2008,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Kilkenny",
+        "Sex": "Female"
+    },
+    {
+        "value": 39972,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Female"
+    },
+    {
+        "value": 41924,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Female"
+    },
+    {
+        "value": 1952,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Laois",
+        "Sex": "Female"
+    },
+    {
+        "value": 19351,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Female"
+    },
+    {
+        "value": 20295,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Female"
+    },
+    {
+        "value": 944,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Longford",
+        "Sex": "Female"
+    },
+    {
+        "value": 62134,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Female"
+    },
+    {
+        "value": 64921,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Female"
+    },
+    {
+        "value": 2787,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Louth",
+        "Sex": "Female"
+    },
+    {
+        "value": 92225,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Female"
+    },
+    {
+        "value": 98228,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Female"
+    },
+    {
+        "value": 6003,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Female"
+    },
+    {
+        "value": 6.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Meath",
+        "Sex": "Female"
+    },
+    {
+        "value": 38257,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Female"
+    },
+    {
+        "value": 39107,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Female"
+    },
+    {
+        "value": 850,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Female"
+    },
+    {
+        "value": 2.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Offaly",
+        "Sex": "Female"
+    },
+    {
+        "value": 43381,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Female"
+    },
+    {
+        "value": 44499,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Female"
+    },
+    {
+        "value": 1118,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Female"
+    },
+    {
+        "value": 2.6,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Westmeath",
+        "Sex": "Female"
+    },
+    {
+        "value": 73411,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Female"
+    },
+    {
+        "value": 75973,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Female"
+    },
+    {
+        "value": 2562,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Female"
+    },
+    {
+        "value": 3.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Wexford",
+        "Sex": "Female"
+    },
+    {
+        "value": 69098,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Female"
+    },
+    {
+        "value": 72196,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Female"
+    },
+    {
+        "value": 3098,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Wicklow",
+        "Sex": "Female"
+    },
+    {
+        "value": 58898,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Female"
+    },
+    {
+        "value": 59906,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Female"
+    },
+    {
+        "value": 1008,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Female"
+    },
+    {
+        "value": 1.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Clare",
+        "Sex": "Female"
+    },
+    {
+        "value": 261562,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Female"
+    },
+    {
+        "value": 273975,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Female"
+    },
+    {
+        "value": 12413,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cork",
+        "Sex": "Female"
+    },
+    {
+        "value": 60418,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Female"
+    },
+    {
+        "value": 63945,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Female"
+    },
+    {
+        "value": 3527,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Female"
+    },
+    {
+        "value": 5.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cork City",
+        "Sex": "Female"
+    },
+    {
+        "value": 201144,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Female"
+    },
+    {
+        "value": 210030,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Female"
+    },
+    {
+        "value": 8886,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.4,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cork County",
+        "Sex": "Female"
+    },
+    {
+        "value": 72873,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Female"
+    },
+    {
+        "value": 74515,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Female"
+    },
+    {
+        "value": 1642,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Female"
+    },
+    {
+        "value": 2.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Kerry",
+        "Sex": "Female"
+    },
+    {
+        "value": 95994,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Female"
+    },
+    {
+        "value": 97798,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Female"
+    },
+    {
+        "value": 1804,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Female"
+    },
+    {
+        "value": 1.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick",
+        "Sex": "Female"
+    },
+    {
+        "value": 29159,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Female"
+    },
+    {
+        "value": 29680,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Female"
+    },
+    {
+        "value": 521,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Female"
+    },
+    {
+        "value": 1.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick City",
+        "Sex": "Female"
+    },
+    {
+        "value": 66835,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Female"
+    },
+    {
+        "value": 68118,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Female"
+    },
+    {
+        "value": 1283,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Female"
+    },
+    {
+        "value": 1.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Limerick County",
+        "Sex": "Female"
+    },
+    {
+        "value": 34982,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Female"
+    },
+    {
+        "value": 35787,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Female"
+    },
+    {
+        "value": 805,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Female"
+    },
+    {
+        "value": 2.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "North Tipperary",
+        "Sex": "Female"
+    },
+    {
+        "value": 44188,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Female"
+    },
+    {
+        "value": 44476,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Female"
+    },
+    {
+        "value": 288,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Female"
+    },
+    {
+        "value": 0.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "South Tipperary",
+        "Sex": "Female"
+    },
+    {
+        "value": 57331,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Female"
+    },
+    {
+        "value": 58622,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Female"
+    },
+    {
+        "value": 1291,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Female"
+    },
+    {
+        "value": 2.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford",
+        "Sex": "Female"
+    },
+    {
+        "value": 23811,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Female"
+    },
+    {
+        "value": 24519,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Female"
+    },
+    {
+        "value": 708,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Female"
+    },
+    {
+        "value": 3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford City",
+        "Sex": "Female"
+    },
+    {
+        "value": 33520,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Female"
+    },
+    {
+        "value": 34103,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Female"
+    },
+    {
+        "value": 583,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Female"
+    },
+    {
+        "value": 1.7,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Waterford County",
+        "Sex": "Female"
+    },
+    {
+        "value": 125895,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Female"
+    },
+    {
+        "value": 130733,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Female"
+    },
+    {
+        "value": 4838,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Female"
+    },
+    {
+        "value": 3.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Galway",
+        "Sex": "Female"
+    },
+    {
+        "value": 39015,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Female"
+    },
+    {
+        "value": 41297,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Female"
+    },
+    {
+        "value": 2282,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Female"
+    },
+    {
+        "value": 5.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Galway City",
+        "Sex": "Female"
+    },
+    {
+        "value": 86880,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Female"
+    },
+    {
+        "value": 89436,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Female"
+    },
+    {
+        "value": 2556,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Female"
+    },
+    {
+        "value": 2.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Galway County",
+        "Sex": "Female"
+    },
+    {
+        "value": 15654,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Female"
+    },
+    {
+        "value": 15940,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Female"
+    },
+    {
+        "value": 286,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Female"
+    },
+    {
+        "value": 1.8,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Leitrim",
+        "Sex": "Female"
+    },
+    {
+        "value": 65218,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Female"
+    },
+    {
+        "value": 65546,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Female"
+    },
+    {
+        "value": 328,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Female"
+    },
+    {
+        "value": 0.5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Mayo",
+        "Sex": "Female"
+    },
+    {
+        "value": 31712,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Female"
+    },
+    {
+        "value": 32120,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Female"
+    },
+    {
+        "value": 408,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Female"
+    },
+    {
+        "value": 1.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Roscommon",
+        "Sex": "Female"
+    },
+    {
+        "value": 32958,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Female"
+    },
+    {
+        "value": 33053,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Female"
+    },
+    {
+        "value": 95,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Female"
+    },
+    {
+        "value": 0.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Sligo",
+        "Sex": "Female"
+    },
+    {
+        "value": 36170,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Female"
+    },
+    {
+        "value": 37737,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Female"
+    },
+    {
+        "value": 1567,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Female"
+    },
+    {
+        "value": 4.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Cavan",
+        "Sex": "Female"
+    },
+    {
+        "value": 80614,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Female"
+    },
+    {
+        "value": 79897,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Female"
+    },
+    {
+        "value": -717,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Female"
+    },
+    {
+        "value": -0.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Donegal",
+        "Sex": "Female"
+    },
+    {
+        "value": 30042,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Female"
+    },
+    {
+        "value": 30444,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Female"
+    },
+    {
+        "value": 402,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Female"
+    },
+    {
+        "value": 1.3,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Monaghan",
+        "Sex": "Female"
+    },
+    {
+        "value": 1271462,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Female"
+    },
+    {
+        "value": 1335187,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Female"
+    },
+    {
+        "value": 63725,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Female"
+    },
+    {
+        "value": 5,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Leinster",
+        "Sex": "Female"
+    },
+    {
+        "value": 625828,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Female"
+    },
+    {
+        "value": 645079,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Female"
+    },
+    {
+        "value": 19251,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Female"
+    },
+    {
+        "value": 3.1,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Munster",
+        "Sex": "Female"
+    },
+    {
+        "value": 271437,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Female"
+    },
+    {
+        "value": 277392,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Female"
+    },
+    {
+        "value": 5955,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Female"
+    },
+    {
+        "value": 2.2,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Connacht",
+        "Sex": "Female"
+    },
+    {
+        "value": 146826,
+        "Statistic": "Population 2011 (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Female"
+    },
+    {
+        "value": 148078,
+        "Statistic": "Population 2016  (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Female"
+    },
+    {
+        "value": 1252,
+        "Statistic": "Actual change since previous census (Number)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Female"
+    },
+    {
+        "value": 0.9,
+        "Statistic": "Percentage change since previous census (%)",
+        "Census Year": "2016",
+        "Province County or City": "Ulster (part of)",
+        "Sex": "Female"
+    }
+]
