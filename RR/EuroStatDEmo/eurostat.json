@@ -1,0 +1,3650 @@
+[
+    {
+        "value": 5.6,
+        "time": "2005",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.3,
+        "time": "2006",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.9,
+        "time": "2007",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.1,
+        "time": "2008",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.3,
+        "time": "2009",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.8,
+        "time": "2010",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2011",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.9,
+        "time": "2012",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.4,
+        "time": "2013",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.6,
+        "time": "2014",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.7,
+        "time": "2015",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6,
+        "time": "2016",
+        "geo": "Austria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.5,
+        "time": "2005",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.3,
+        "time": "2006",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.5,
+        "time": "2007",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7,
+        "time": "2008",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.9,
+        "time": "2009",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.3,
+        "time": "2010",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.2,
+        "time": "2011",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2012",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2013",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.5,
+        "time": "2014",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.5,
+        "time": "2015",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.8,
+        "time": "2016",
+        "geo": "Belgium",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.1,
+        "time": "2005",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2006",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.9,
+        "time": "2007",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.6,
+        "time": "2008",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.8,
+        "time": "2009",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.3,
+        "time": "2010",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.3,
+        "time": "2011",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12.3,
+        "time": "2012",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13,
+        "time": "2013",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.4,
+        "time": "2014",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.2,
+        "time": "2015",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2016",
+        "geo": "Bulgaria",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.3,
+        "time": "2005",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2006",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.9,
+        "time": "2007",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.7,
+        "time": "2008",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.4,
+        "time": "2009",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.3,
+        "time": "2010",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.9,
+        "time": "2011",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.9,
+        "time": "2012",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 15.9,
+        "time": "2013",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 16.1,
+        "time": "2014",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 15,
+        "time": "2015",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.1,
+        "time": "2016",
+        "geo": "Cyprus",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.9,
+        "time": "2005",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.1,
+        "time": "2006",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.3,
+        "time": "2007",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.4,
+        "time": "2008",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.7,
+        "time": "2009",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.3,
+        "time": "2010",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.7,
+        "time": "2011",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7,
+        "time": "2012",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7,
+        "time": "2013",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.1,
+        "time": "2014",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.1,
+        "time": "2015",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4,
+        "time": "2016",
+        "geo": "Czech Republic",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.2,
+        "time": "2005",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.1,
+        "time": "2006",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.5,
+        "time": "2007",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.4,
+        "time": "2008",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2009",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7,
+        "time": "2010",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.8,
+        "time": "2011",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.4,
+        "time": "2012",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.2,
+        "time": "2013",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5,
+        "time": "2014",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2015",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.1,
+        "time": "2016",
+        "geo": "Germany (until 1990 former territory of the FRG)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.8,
+        "time": "2005",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.9,
+        "time": "2006",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.8,
+        "time": "2007",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.4,
+        "time": "2008",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6,
+        "time": "2009",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.5,
+        "time": "2010",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2011",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.5,
+        "time": "2012",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7,
+        "time": "2013",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.6,
+        "time": "2014",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.2,
+        "time": "2015",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.2,
+        "time": "2016",
+        "geo": "Denmark",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2005",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2006",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.5,
+        "time": "2007",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2008",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.5,
+        "time": "2009",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10,
+        "time": "2010",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.1,
+        "time": "2011",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.3,
+        "time": "2012",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12,
+        "time": "2013",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.6,
+        "time": "2014",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.9,
+        "time": "2015",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10,
+        "time": "2016",
+        "geo": "Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.1,
+        "time": "2005",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2006",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.5,
+        "time": "2007",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2008",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2009",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.1,
+        "time": "2010",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.1,
+        "time": "2011",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.4,
+        "time": "2012",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12,
+        "time": "2013",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.6,
+        "time": "2014",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.9,
+        "time": "2015",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10,
+        "time": "2016",
+        "geo": "Euro area (18 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.1,
+        "time": "2005",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2006",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.5,
+        "time": "2007",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2008",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2009",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.2,
+        "time": "2010",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.2,
+        "time": "2011",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.4,
+        "time": "2012",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12,
+        "time": "2013",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.6,
+        "time": "2014",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.9,
+        "time": "2015",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10,
+        "time": "2016",
+        "geo": "Euro area (19 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8,
+        "time": "2005",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.9,
+        "time": "2006",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2007",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.5,
+        "time": "2008",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.5,
+        "time": "2009",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 16.7,
+        "time": "2010",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12.3,
+        "time": "2011",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10,
+        "time": "2012",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.6,
+        "time": "2013",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.4,
+        "time": "2014",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.2,
+        "time": "2015",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.8,
+        "time": "2016",
+        "geo": "Estonia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10,
+        "time": "2005",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2006",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2007",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.8,
+        "time": "2008",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2009",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12.7,
+        "time": "2010",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 17.9,
+        "time": "2011",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 24.5,
+        "time": "2012",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 27.5,
+        "time": "2013",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 26.5,
+        "time": "2014",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 24.9,
+        "time": "2015",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 23.5,
+        "time": "2016",
+        "geo": "Greece",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.2,
+        "time": "2005",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.5,
+        "time": "2006",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.2,
+        "time": "2007",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.3,
+        "time": "2008",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 17.9,
+        "time": "2009",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 19.9,
+        "time": "2010",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 21.4,
+        "time": "2011",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 24.8,
+        "time": "2012",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 26.1,
+        "time": "2013",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 24.5,
+        "time": "2014",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 22.1,
+        "time": "2015",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 19.6,
+        "time": "2016",
+        "geo": "Spain",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2005",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.2,
+        "time": "2006",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.2,
+        "time": "2007",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7,
+        "time": "2008",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2009",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2010",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2011",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.4,
+        "time": "2012",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.8,
+        "time": "2013",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.2,
+        "time": "2014",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.4,
+        "time": "2015",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.5,
+        "time": "2016",
+        "geo": "European Union (27 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2005",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.2,
+        "time": "2006",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.2,
+        "time": "2007",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7,
+        "time": "2008",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2009",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2010",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.7,
+        "time": "2011",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.5,
+        "time": "2012",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.9,
+        "time": "2013",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.2,
+        "time": "2014",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.4,
+        "time": "2015",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.5,
+        "time": "2016",
+        "geo": "European Union (28 countries)",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2005",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.7,
+        "time": "2006",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.9,
+        "time": "2007",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.4,
+        "time": "2008",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.2,
+        "time": "2009",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2010",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.8,
+        "time": "2011",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.7,
+        "time": "2012",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.2,
+        "time": "2013",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.7,
+        "time": "2014",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.4,
+        "time": "2015",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.8,
+        "time": "2016",
+        "geo": "Finland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.9,
+        "time": "2005",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.8,
+        "time": "2006",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8,
+        "time": "2007",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.4,
+        "time": "2008",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.1,
+        "time": "2009",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.3,
+        "time": "2010",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.2,
+        "time": "2011",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.8,
+        "time": "2012",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.3,
+        "time": "2013",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.3,
+        "time": "2014",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.4,
+        "time": "2015",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.1,
+        "time": "2016",
+        "geo": "France",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13,
+        "time": "2005",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.6,
+        "time": "2006",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.9,
+        "time": "2007",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.6,
+        "time": "2008",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.3,
+        "time": "2009",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.8,
+        "time": "2010",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.7,
+        "time": "2011",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 15.8,
+        "time": "2012",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 17.4,
+        "time": "2013",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 17.2,
+        "time": "2014",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 16.1,
+        "time": "2015",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.3,
+        "time": "2016",
+        "geo": "Croatia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.2,
+        "time": "2005",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.5,
+        "time": "2006",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.4,
+        "time": "2007",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.8,
+        "time": "2008",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10,
+        "time": "2009",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.2,
+        "time": "2010",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11,
+        "time": "2011",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11,
+        "time": "2012",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.2,
+        "time": "2013",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.7,
+        "time": "2014",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.8,
+        "time": "2015",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.1,
+        "time": "2016",
+        "geo": "Hungary",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.4,
+        "time": "2005",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.5,
+        "time": "2006",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.7,
+        "time": "2007",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.4,
+        "time": "2008",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12,
+        "time": "2009",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.9,
+        "time": "2010",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 14.7,
+        "time": "2011",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 14.7,
+        "time": "2012",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.1,
+        "time": "2013",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.3,
+        "time": "2014",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.4,
+        "time": "2015",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.9,
+        "time": "2016",
+        "geo": "Ireland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 2.6,
+        "time": "2005",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 2.9,
+        "time": "2006",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 2.3,
+        "time": "2007",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3,
+        "time": "2008",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.2,
+        "time": "2009",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2010",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.1,
+        "time": "2011",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6,
+        "time": "2012",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.4,
+        "time": "2013",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5,
+        "time": "2014",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4,
+        "time": "2015",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3,
+        "time": "2016",
+        "geo": "Iceland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.7,
+        "time": "2005",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.8,
+        "time": "2006",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.1,
+        "time": "2007",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.7,
+        "time": "2008",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.7,
+        "time": "2009",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2010",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2011",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.7,
+        "time": "2012",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12.1,
+        "time": "2013",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12.7,
+        "time": "2014",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.9,
+        "time": "2015",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": null,
+        "time": "2016",
+        "geo": "Italy",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.4,
+        "time": "2005",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.1,
+        "time": "2006",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.8,
+        "time": "2007",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4,
+        "time": "2008",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.1,
+        "time": "2009",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5,
+        "time": "2010",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2011",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.3,
+        "time": "2012",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4,
+        "time": "2013",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.6,
+        "time": "2014",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.4,
+        "time": "2015",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.1,
+        "time": "2016",
+        "geo": "Japan",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.3,
+        "time": "2005",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.8,
+        "time": "2006",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.3,
+        "time": "2007",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.8,
+        "time": "2008",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.8,
+        "time": "2009",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 17.8,
+        "time": "2010",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 15.4,
+        "time": "2011",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.4,
+        "time": "2012",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.8,
+        "time": "2013",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.7,
+        "time": "2014",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.1,
+        "time": "2015",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.9,
+        "time": "2016",
+        "geo": "Lithuania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2005",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2006",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.2,
+        "time": "2007",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.9,
+        "time": "2008",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.1,
+        "time": "2009",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2010",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.8,
+        "time": "2011",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.1,
+        "time": "2012",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.9,
+        "time": "2013",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6,
+        "time": "2014",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.5,
+        "time": "2015",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.3,
+        "time": "2016",
+        "geo": "Luxembourg",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10,
+        "time": "2005",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7,
+        "time": "2006",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.1,
+        "time": "2007",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.7,
+        "time": "2008",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 17.5,
+        "time": "2009",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 19.5,
+        "time": "2010",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 16.2,
+        "time": "2011",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 15,
+        "time": "2012",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.9,
+        "time": "2013",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.8,
+        "time": "2014",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.9,
+        "time": "2015",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2016",
+        "geo": "Latvia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.9,
+        "time": "2005",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.8,
+        "time": "2006",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.5,
+        "time": "2007",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6,
+        "time": "2008",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.9,
+        "time": "2009",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.9,
+        "time": "2010",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.4,
+        "time": "2011",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.3,
+        "time": "2012",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.4,
+        "time": "2013",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.8,
+        "time": "2014",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.4,
+        "time": "2015",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.7,
+        "time": "2016",
+        "geo": "Malta",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.9,
+        "time": "2005",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5,
+        "time": "2006",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.2,
+        "time": "2007",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.7,
+        "time": "2008",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.4,
+        "time": "2009",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5,
+        "time": "2010",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5,
+        "time": "2011",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.8,
+        "time": "2012",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.3,
+        "time": "2013",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.4,
+        "time": "2014",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.9,
+        "time": "2015",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6,
+        "time": "2016",
+        "geo": "Netherlands",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.5,
+        "time": "2005",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.4,
+        "time": "2006",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 2.5,
+        "time": "2007",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 2.5,
+        "time": "2008",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.2,
+        "time": "2009",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.6,
+        "time": "2010",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.3,
+        "time": "2011",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.2,
+        "time": "2012",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.5,
+        "time": "2013",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 3.5,
+        "time": "2014",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.4,
+        "time": "2015",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.7,
+        "time": "2016",
+        "geo": "Norway",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 17.9,
+        "time": "2005",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.9,
+        "time": "2006",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2007",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.1,
+        "time": "2008",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.1,
+        "time": "2009",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.7,
+        "time": "2010",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.7,
+        "time": "2011",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.1,
+        "time": "2012",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.3,
+        "time": "2013",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2014",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.5,
+        "time": "2015",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.2,
+        "time": "2016",
+        "geo": "Poland",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.8,
+        "time": "2005",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.9,
+        "time": "2006",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.1,
+        "time": "2007",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.8,
+        "time": "2008",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.7,
+        "time": "2009",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12,
+        "time": "2010",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12.9,
+        "time": "2011",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 15.8,
+        "time": "2012",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 16.4,
+        "time": "2013",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 14.1,
+        "time": "2014",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12.6,
+        "time": "2015",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.2,
+        "time": "2016",
+        "geo": "Portugal",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.1,
+        "time": "2005",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.2,
+        "time": "2006",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.4,
+        "time": "2007",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.6,
+        "time": "2008",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.5,
+        "time": "2009",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7,
+        "time": "2010",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.2,
+        "time": "2011",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.8,
+        "time": "2012",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.1,
+        "time": "2013",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.8,
+        "time": "2014",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.8,
+        "time": "2015",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.9,
+        "time": "2016",
+        "geo": "Romania",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.7,
+        "time": "2005",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.1,
+        "time": "2006",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.1,
+        "time": "2007",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.2,
+        "time": "2008",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.3,
+        "time": "2009",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.6,
+        "time": "2010",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.8,
+        "time": "2011",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8,
+        "time": "2012",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8,
+        "time": "2013",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.9,
+        "time": "2014",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.4,
+        "time": "2015",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.9,
+        "time": "2016",
+        "geo": "Sweden",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.5,
+        "time": "2005",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6,
+        "time": "2006",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.9,
+        "time": "2007",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.4,
+        "time": "2008",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.9,
+        "time": "2009",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.3,
+        "time": "2010",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.2,
+        "time": "2011",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.9,
+        "time": "2012",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.1,
+        "time": "2013",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.7,
+        "time": "2014",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2015",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8,
+        "time": "2016",
+        "geo": "Slovenia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 16.4,
+        "time": "2005",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.5,
+        "time": "2006",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.2,
+        "time": "2007",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2008",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 12.1,
+        "time": "2009",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 14.5,
+        "time": "2010",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.7,
+        "time": "2011",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 14,
+        "time": "2012",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 14.2,
+        "time": "2013",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13.2,
+        "time": "2014",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.5,
+        "time": "2015",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.7,
+        "time": "2016",
+        "geo": "Slovakia",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.5,
+        "time": "2005",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2006",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.1,
+        "time": "2007",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10,
+        "time": "2008",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 13,
+        "time": "2009",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 11.1,
+        "time": "2010",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.1,
+        "time": "2011",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.4,
+        "time": "2012",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9,
+        "time": "2013",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.9,
+        "time": "2014",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.3,
+        "time": "2015",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 10.9,
+        "time": "2016",
+        "geo": "Turkey",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.8,
+        "time": "2005",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.4,
+        "time": "2006",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.3,
+        "time": "2007",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.6,
+        "time": "2008",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2009",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.8,
+        "time": "2010",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.1,
+        "time": "2011",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.9,
+        "time": "2012",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.6,
+        "time": "2013",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.1,
+        "time": "2014",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.3,
+        "time": "2015",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.8,
+        "time": "2016",
+        "geo": "United Kingdom",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.1,
+        "time": "2005",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2006",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.6,
+        "time": "2007",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.8,
+        "time": "2008",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.3,
+        "time": "2009",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 9.6,
+        "time": "2010",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.9,
+        "time": "2011",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 8.1,
+        "time": "2012",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 7.4,
+        "time": "2013",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 6.2,
+        "time": "2014",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 5.3,
+        "time": "2015",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    },
+    {
+        "value": 4.9,
+        "time": "2016",
+        "geo": "United States",
+        "sex": "Total",
+        "unit": "Percentage of active population",
+        "age": "Total"
+    }
+]
