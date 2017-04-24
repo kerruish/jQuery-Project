@@ -73,7 +73,7 @@ $(document).ready(function () {
                 }
 
             }
-            $("#cpa01").css({height : '800px'});
+            $("#cpa01").css({height : '400px'});
             var options = {
                 chart: {
                     renderTo: 'cpa01',

@@ -26,7 +26,7 @@ $(document).ready(function () {
                         contextEP001.populationFemaleNumber.push(data[i].value);
                     }
                 }
-                $("#ep001").css({height : '1200px'});
+                $("#ep001").css({height : '600px'});
                 var options = {
                     chart: {
                         renderTo: 'ep001',
