@@ -13,7 +13,7 @@ echo -e "*************************************************"
 
 curl http://www.cso.ie/StatbankServices/StatbankServices.svc/jsonservice/responseinstance/$requestDataset -o $requestDataset.jsonstat
 
-jsonstat2arrobj $requestDataset.jsonstat public/bin/$requestDataset.json
+jsonstat2arrobj $requestDataset.jsonstat dist/bin/$requestDataset.json
 
 rm $requestDataset.jsonstat
 

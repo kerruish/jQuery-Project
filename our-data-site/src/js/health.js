@@ -1,6 +1,6 @@
 
 $(document).ready(function () {
-        $.getJSON("Health.json", function (data) {
+        $.getJSON("bin/Health.json", function (data) {
             var html = "",
             el = document.getElementById("Data");
             el1 = document.getElementById("Data1");
@@ -17,7 +17,3 @@ $(document).ready(function () {
         });
 
 });
-
-
-
-
