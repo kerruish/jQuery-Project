@@ -1,0 +1,31 @@
+body{
+	font-family: verdana;
+    width: 1080px;
+    /*background-color: #faebd7;*/
+	background-color:#FFC;
+    display: block;
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+	background-image: url("image.jpg");
+	 height: 200px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-color: #B2B2B2;
+    padding: 1px;
+}
+.row{
+	margin-top: 100px;
+}
+
+#col1, #col2, #col3{
+	margin-top:50px;
+	border: solid 1px;
+}
+
+/*p{
+	font-size:50px;
+}*/
