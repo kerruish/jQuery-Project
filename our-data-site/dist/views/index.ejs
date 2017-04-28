@@ -1,35 +1,121 @@
-
-<%- include('partials/header') -%>
-
-
-<section class="panel blue">
-		<%- include('partials/health1') -%>
-</section>
-
-<section class="panel turqoise">
-		<%- include('partials/health2') -%>
-</section>
-
-<section class="panel green">
-		<%- include('partials/health3') -%>
-</section>
-
-<section class="panel bordeaux">
-		<%- include('partials/health4') -%>
-</section>
+<%- include('partials/_header') -%>
+    <header>
+        <div class="container">
+            <div class="col-md-8 col-md-offset-2">
+                <h1>
+                    <i class="fa fa-heart"></i>
+                    IRISH DATA
+                    <i class="fa fa-magic"></i>
+                </h1>
+                <hr>
+                <h2>A series of datasets from the CSO 2016 Census</h2>
+                <p class="lead">This sites uses Highcharts to render the charts and ScrollMagic for appearance.</p>
+            </div>
+        </div>
+        <i class="fa fa-angle-double-down"></i>
+    </header>
 
 
+    <main>
+        <div class="container">
 
-<section class="panel yellow">
-	<%- include('partials/population') -%>
-</section>
 
-<section class="panel red">
-	<%- include('partials/prices') -%>
-</section>
+            <div class="row">
+                <div class="col-md-12 ">
+                    <div class="wrap" id="scene-1">
+                        <div class="animation" id="animation-1">
+                            <section class="panel blue">
+                                <%- include('partials/computerShopping') -%>
+                            </section>
+                        </div>
+                    </div>
+                </div>
 
-<section class="panel yellow">
-	<%- include('partials/internet1') -%>
-</section>
+            </div>
 
-<%- include('partials/footer') -%>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="wrap" id="scene-2">
+                        <div class="animation" id="animation-2">
+                            <%- include('partials/computerDailyUse') -%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="wrap" id="scene-3">
+                        <div class="animation" id="animation-3">
+                            <%- include('partials/computerOwnership') -%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="wrap" id="scene-4">
+                        <div class="animation" id="animation-4">
+                            <%- include('partials/consumerPriceIndex') -%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="wrap" id="scene-5">
+                        <div class="animation" id="animation-5">
+                            <%- include('partials/health1') -%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="wrap" id="scene-6">
+                        <div class="animation" id="animation-6">
+                            <%- include('partials/health2') -%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="wrap" id="scene-7">
+                        <div class="animation" id="animation-7">
+                            <%- include('partials/health3') -%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="wrap" id="scene-8">
+                        <div class="animation" id="animation-8">
+                            <%- include('partials/health4') -%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="wrap" id="scene-9">
+                        <div class="animation" id="animation-9">
+                            <%- include('partials/populationMarriages') -%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <br>
+        </div>
+    </main>
+
+    <%- include('partials/_footer') -%>
