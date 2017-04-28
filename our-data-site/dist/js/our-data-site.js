@@ -1,3 +1,4 @@
+console.log("LOADED: computerDailyUse");
 $(document).ready(function() {
 
     contextICA18 = {}; // global namespace variable
@@ -110,7 +111,8 @@ function drawChart() {
         }]
     });
 }
-;// Global colour style variables
+;console.log("LOADED: computerOwnership");
+// Global colour style variables
 var pieColourBackground = 'white';
 var pieColourPrimary = '#9C27B0';
 var pieColourSeconary = '#212121';
@@ -405,7 +407,7 @@ function addButtons() {
 function cleanUp() {
     //  $(".highcharts-contextmenu").remove();
 }
-;console.log("computerShopping");
+;console.log("LOADED: computerShopping");
 $(document).ready(function() {
 
     contextICA56 = {}; // global namespace variable
