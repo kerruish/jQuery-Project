@@ -30,87 +30,87 @@ $(document).ready(function() {
             drawChart();
         }
     });
-});
 
-//  Correct bad CSO data
-//  Removing duplicate 2007 entry
-function fixBadData() {
-    delete contextICA18.computerUsedEveryDayYear[0];
-    delete contextICA18.computerUsedEveryDayBoth[0];
-    delete contextICA18.computerUsedEveryDayMale[0];
-    delete contextICA18.computerUsedEveryDayFemale[0];
+    //  Correct bad CSO data
+    //  Removing duplicate 2007 entry
+    function fixBadData() {
+        delete contextICA18.computerUsedEveryDayYear[0];
+        delete contextICA18.computerUsedEveryDayBoth[0];
+        delete contextICA18.computerUsedEveryDayMale[0];
+        delete contextICA18.computerUsedEveryDayFemale[0];
 
-    contextICA18.computerUsedEveryDayYear = $.grep(contextICA18.computerUsedEveryDayYear, function(n) {
-        return n == 0 || n;
-    });
-    contextICA18.computerUsedEveryDayBoth = $.grep(contextICA18.computerUsedEveryDayBoth, function(n) {
-        return n == 0 || n;
-    });
-    contextICA18.computerUsedEveryDayMale = $.grep(contextICA18.computerUsedEveryDayMale, function(n) {
-        return n == 0 || n;
-    });
-    contextICA18.computerUsedEveryDayFemale = $.grep(contextICA18.computerUsedEveryDayFemale, function(n) {
-        return n == 0 || n;
-    });
-}
+        contextICA18.computerUsedEveryDayYear = $.grep(contextICA18.computerUsedEveryDayYear, function(n) {
+            return n == 0 || n;
+        });
+        contextICA18.computerUsedEveryDayBoth = $.grep(contextICA18.computerUsedEveryDayBoth, function(n) {
+            return n == 0 || n;
+        });
+        contextICA18.computerUsedEveryDayMale = $.grep(contextICA18.computerUsedEveryDayMale, function(n) {
+            return n == 0 || n;
+        });
+        contextICA18.computerUsedEveryDayFemale = $.grep(contextICA18.computerUsedEveryDayFemale, function(n) {
+            return n == 0 || n;
+        });
+    }
 
-function drawChart() {
-    Highcharts.chart('dailyComputerUse', {
-        chart: {
-            type: 'line'
-        },
-        title: {
-            text: 'The percentage of people using a computer every day'
-        },
-        legend: {
-            layout: 'vertical',
-            align: 'left',
-            verticalAlign: 'top',
-            x: 150,
-            y: 100,
-            floating: true,
-            borderWidth: 1,
-            backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'
-        },
-        credits: {
-            enabled: false,
-        },
-        exporting: {
-            enabled: false,
-        },
-        tooltip: {
-            enabled: false,
-        },
-        xAxis: {
-            categories: contextICA18.computerUsedEveryDayYear,
-
-        },
-        yAxis: {
+    function drawChart() {
+        Highcharts.chart('computerDailyUse', {
+            chart: {
+                type: 'line'
+            },
             title: {
-                text: 'Percentage of the population'
-            }
-        },
-        plotOptions: {
-            areaspline: {
-                fillOpacity: 0.5
-            }
-        },
-        series: [{
-            name: 'Female',
-            color: '#D991AF',
-            data: contextICA18.computerUsedEveryDayFemale
-        }, {
-            name: 'Male',
-            color: '#595594',
-            data: contextICA18.computerUsedEveryDayMale
-        }, {
-            name: 'Both',
-            color: '#479030',
-            data: contextICA18.computerUsedEveryDayBoth,
-            visible: false
-        }]
-    });
-}
+                text: 'The percentage of people using a computer every day'
+            },
+            legend: {
+                layout: 'vertical',
+                align: 'left',
+                verticalAlign: 'top',
+                x: 150,
+                y: 100,
+                floating: true,
+                borderWidth: 1,
+                backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'
+            },
+            credits: {
+                enabled: false,
+            },
+            exporting: {
+                enabled: false,
+            },
+            tooltip: {
+                enabled: false,
+            },
+            xAxis: {
+                categories: contextICA18.computerUsedEveryDayYear,
+
+            },
+            yAxis: {
+                title: {
+                    text: 'Percentage of the population'
+                }
+            },
+            plotOptions: {
+                areaspline: {
+                    fillOpacity: 0.5
+                }
+            },
+            series: [{
+                name: 'Female',
+                color: '#D991AF',
+                data: contextICA18.computerUsedEveryDayFemale
+            }, {
+                name: 'Male',
+                color: '#595594',
+                data: contextICA18.computerUsedEveryDayMale
+            }, {
+                name: 'Both',
+                color: '#479030',
+                data: contextICA18.computerUsedEveryDayBoth,
+                visible: false
+            }]
+        });
+    }
+});
 ;console.log("LOADED: computerOwnership");
 // Global colour style variables
 var pieColourBackground = 'white';
@@ -125,7 +125,7 @@ $(document).ready(function() {
     contextICA27 = {}; // global namespace variable
     contextICA27.householdsWithInternetComputerPercentage = [];
     contextICA27.householdsWithInternetComputerPercentageYear = [];
-
+    contextICA27.householdsWithInternetNoComputerPercentage = [];
     $.ajax({
         url: 'bin/ICA27.json',
         cache: false,
@@ -138,275 +138,335 @@ $(document).ready(function() {
                     contextICA27.householdsWithInternetComputerPercentageYear.push(data[i]["Year"]);
                 }
             }
-            drawChart();
-            addButtons();
-            cleanUp();
+            for (var j = 0; j < contextICA27.householdsWithInternetComputerPercentage.length; j++) {
+                contextICA27.householdsWithInternetNoComputerPercentage.push(100 - contextICA27.householdsWithInternetComputerPercentage[j]);
+            }
+            Highcharts.chart('computerOwnership', {
+                title: {
+                    text: 'Households with a Computer'
+                },
+                credits: {
+                    enabled: false
+                },
+                exporting: {
+                    enabled: false
+                },
+                xAxis: {
+                    categories: contextICA27.householdsWithInternetComputerPercentageYear
+                },
+
+                series: [{
+                    type: 'column',
+                    name: 'Computer',
+                    data: contextICA27.householdsWithInternetComputerPercentage,
+                    color: 'rgb(99, 207, 61)'
+                }, {
+                    type: 'column',
+                    name: 'No Computer',
+                    data: contextICA27.householdsWithInternetNoComputerPercentage,
+                    color: 'rgb(134, 9, 9)'
+                }, {
+                    type: 'pie',
+                    name: 'Current Ownership',
+                    data: [{
+                        name: 'Current - Computer',
+                        y: contextICA27.householdsWithInternetComputerPercentage[9],
+                        color: 'rgb(99, 207, 61)'
+                    }, {
+                        name: 'Current - No Computer',
+                        y: contextICA27.householdsWithInternetNoComputerPercentage[9],
+                        color: 'rgb(134, 9, 9)'
+                    }],
+                    center: ['10%', 20],
+                    size: 80,
+                    showInLegend: false,
+                    dataLabels: {
+                        enabled: false
+                    }
+                }]
+            });
+
         }
     });
+
+
+
+
 });
 
-function drawChart() {
-    var options = {
-        chart: {
-            plotBackgroundColor: pieColourBackground,
-            plotBorderWidth: null,
-            plotShadow: true,
-            renderTo: 'computerOwnership',
-            type: 'pie',
-            options3d: {
-                enabled: true,
-                alpha: 45,
-                beta: 0
-            }
-        },
-        title: {
-            text: 'Computer Ownership',
-            style: {
-                color: pieColourText,
-                fontSize: '25px'
-            }
-        },
-        subtitle: {
-            text: 'Who have one and who don\'t.'
-        },
-        credits: {
-            enabled: false
-        },
-        exporting: {
-            enabled: false
-        },
-        tooltip: {
-            enabled: false
-        },
-        // tooltip: {
-        //     pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>',
-        //     style: {
-        //         color: pieColourText,
-        //         fontSize: '10px',
-        //         backgroundColor: null
-        //     }
-        // },
-        plotOptions: {
-            pie: {
-                allowPointSelect: true,
-                cursor: 'pointer',
-                innerSize: 100,
-                depth: 15,
-                dataLabels: {
-                    enabled: false,
-                    format: '{point.name}',
-                    style: {
-                        color: pieColourText,
-                    }
-                }
-            }
-        },
-        series: [{
-            name: 'Computers',
-            colorByPoint: true,
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[9]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[9],
-                sliced: true,
-                selected: true
-            }]
-        }]
-    };
-    chart = new Highcharts.Chart(options);
-
-}
-
-function addButtons() {
 
 
-    $("#ica27").append($('<div/>', {
-        id: 'ica27buttons',
-        class: "btn-group",
-    }));
-    for (var i = 0; i < contextICA27.householdsWithInternetComputerPercentageYear.length; i++) {
-
-        $("#ica27buttons").append($('<button/>', {
-            text: contextICA27.householdsWithInternetComputerPercentageYear[i],
-            id: 'btn_' + i,
-            class: buttonClass,
-        }));
-    }
-
-    //  No idea why this is not working - hard coding the button series
-    //
-    // for (var i = 0; i < contextICA27.householdsWithInternetComputerPercentage; i++) {
-    //     $('#btn_' + i).click(function() {
-    //         chart.series[0].update({
-    //             data: [{
-    //                 name: 'With a computer',
-    //                 y: contextICA27.householdsWithInternetComputerPercentage[i]
-    //             }, {
-    //                 name: 'No Computer',
-    //                 y: 100 - contextICA27.householdsWithInternetComputerPercentage[i],
-    //             }]
-    //         });
-    //     });
-    // }
-
-    $('#btn_' + 0).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[0]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[0],
-                sliced: true,
-                selected: true
-            }]
-        });
-    });
-    $('#btn_' + 1).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[1]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[1],
-                sliced: true,
-                selected: true
-            }]
-        });
-    });
-    $('#btn_' + 2).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[2]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[2],
-            }]
-        });
-    });
-    $('#btn_' + 3).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[3]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[3],
-                sliced: true,
-                selected: true
-            }]
-        });
-    });
-    $('#btn_' + 4).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[4]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[4],
-                sliced: true,
-                selected: true
-            }]
-        });
-    });
-    $('#btn_' + 5).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[5]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[5],
-                sliced: true,
-                selected: true
-            }]
-        });
-    });
-    $('#btn_' + 6).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[6]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[6],
-                sliced: true,
-                selected: true
-            }]
-        });
-    });
-    $('#btn_' + 7).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[7]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[7],
-                sliced: true,
-                selected: true
-            }]
-        });
-    });
-    $('#btn_' + 8).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[8]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[8],
-                sliced: true,
-                selected: true
-            }]
-        });
-    });
-    $('#btn_' + 9).click(function() {
-        chart.series[0].update({
-            data: [{
-                name: 'With a computer',
-                color: pieColourPrimary,
-                y: contextICA27.householdsWithInternetComputerPercentage[9]
-            }, {
-                name: 'No Computer',
-                color: pieColourSeconary,
-                y: 100 - contextICA27.householdsWithInternetComputerPercentage[9],
-                sliced: true,
-                selected: true
-            }]
-        });
-    });
-}
 
 
-function cleanUp() {
-    //  $(".highcharts-contextmenu").remove();
-}
+
+
+
+
+//
+//
+//
+// function drawChart() {
+//     var options = {
+//         chart: {
+//             plotBackgroundColor: pieColourBackground,
+//             plotBorderWidth: null,
+//             plotShadow: true,
+//             renderTo: 'computerOwnership',
+//             type: 'pie',
+//             options3d: {
+//                 enabled: true,
+//                 alpha: 45,
+//                 beta: 0
+//             }
+//         },
+//         title: {
+//             text: 'Computer Ownership',
+//             style: {
+//                 color: pieColourText,
+//                 fontSize: '25px'
+//             }
+//         },
+//         subtitle: {
+//             text: 'Who have one and who don\'t.'
+//         },
+//         credits: {
+//             enabled: false
+//         },
+//         exporting: {
+//             enabled: false
+//         },
+//         tooltip: {
+//             enabled: false
+//         },
+//         plotOptions: {
+//             pie: {
+//                 allowPointSelect: true,
+//                 cursor: 'pointer',
+//                 innerSize: 100,
+//                 depth: 15,
+//                 dataLabels: {
+//                     enabled: false,
+//                     format: '{point.name}',
+//                     style: {
+//                         color: pieColourText,
+//                     }
+//                 }
+//             }
+//         },
+//         series: [{
+//             name: 'Computers',
+//             colorByPoint: true,
+//             data: [{
+//                 name: 'With a computer',
+//                 color: pieColourPrimary,
+//                 y: contextICA27.householdsWithInternetComputerPercentage[9]
+//             }, {
+//                 name: 'No Computer',
+//                 color: pieColourSeconary,
+//                 y: 100 - contextICA27.householdsWithInternetComputerPercentage[9],
+//                 sliced: true,
+//                 selected: true
+//             }]
+//         }]
+//     };
+//     chart = new Highcharts.Chart(options);
+//
+//
+//     console.log("Buttons");
+//     for (i = 1; i <= 10; i++) {
+//         console.log("Buttons");
+//
+//         newButton = $('<button/>', {
+//             text: i, //set text 1 to 10
+//             id: 'btn_' + i,
+//             click: function() {
+//                 alert('hi');
+//             }
+//         });
+//
+//         $("#computerOwnership").append(newButton);
+//     }
+// $("#computerOwnership").append($('<div/>', {
+//     id: 'computerOwnershipButtons',
+//     class: "btn-group",
+// }));
+// for (var i = 0; i < 10; i++) {
+//     console.log("Buttons");
+//     $("#computerOwnership").append($('<button/>', {
+//         text: contextICA27.householdsWithInternetComputerPercentageYear[i],
+//         id: 'btn_' + i,
+//         class: buttonClass,
+//         click: function() {
+//             alert('hi');
+//         }
+//     });)
+// }
+
+
+
+// for (var i = 0; i < $('.buttonClass').length; i++) {
+//     console.log("Buttons");
+//     $('#btn_' + i).click(function() {
+//         chart.series[0].update({
+//             data: [{
+//                 name: 'With a computer',
+//                 y: contextICA27.householdsWithInternetComputerPercentage[i]
+//             }, {
+//                 name: 'No Computer',
+//                 y: 100 - contextICA27.householdsWithInternetComputerPercentage[i],
+//             }]
+//         });
+//     });
+// }
+
+// $('#btn_' + 0).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[0]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[0],
+//             sliced: true,
+//             selected: true
+//         }]
+//     });
+// });
+// $('#btn_' + 1).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[1]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[1],
+//             sliced: true,
+//             selected: true
+//         }]
+//     });
+// });
+// $('#btn_' + 2).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[2]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[2],
+//         }]
+//     });
+// });
+// $('#btn_' + 3).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[3]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[3],
+//             sliced: true,
+//             selected: true
+//         }]
+//     });
+// });
+// $('#btn_' + 4).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[4]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[4],
+//             sliced: true,
+//             selected: true
+//         }]
+//     });
+// });
+// $('#btn_' + 5).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[5]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[5],
+//             sliced: true,
+//             selected: true
+//         }]
+//     });
+// });
+// $('#btn_' + 6).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[6]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[6],
+//             sliced: true,
+//             selected: true
+//         }]
+//     });
+// });
+// $('#btn_' + 7).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[7]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[7],
+//             sliced: true,
+//             selected: true
+//         }]
+//     });
+// });
+// $('#btn_' + 8).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[8]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[8],
+//             sliced: true,
+//             selected: true
+//         }]
+//     });
+// });
+// $('#btn_' + 9).click(function() {
+//     chart.series[0].update({
+//         data: [{
+//             name: 'With a computer',
+//             color: pieColourPrimary,
+//             y: contextICA27.householdsWithInternetComputerPercentage[9]
+//         }, {
+//             name: 'No Computer',
+//             color: pieColourSeconary,
+//             y: 100 - contextICA27.householdsWithInternetComputerPercentage[9],
+//             sliced: true,
+//             selected: true
+//         }]
+//     });
+// });
 ;console.log("LOADED: computerShopping");
 $(document).ready(function() {
 
@@ -452,7 +512,7 @@ $(document).ready(function() {
 });
 
 function drawChart() {
-    Highcharts.chart('dailyComputerUse', {
+    Highcharts.chart('computerShopping', {
         chart: {
             type: 'line'
         },
@@ -701,7 +761,7 @@ $(document).ready(function () {
             }
         }
         tbl += "</tbody></table></div>";
-        $('body').append(tbl);
+        $('#populationBirthsSligo').append(tbl);
         $('table#chart3').highchartTable();
     });
 });
@@ -749,5 +809,31 @@ $(document).ready(function () {
         //$('.row').append(tbl);
         $('#populationNumber').append(tbl);
         $('table#chart1').highchartTable();
+    });
+});
+;console.log("Loaded: scroll");
+$(function() {
+
+    var scrollMagicController = new ScrollMagic.Controller();
+
+
+
+    //  loop trhough each .graph element
+    $('.graph').each(function() {
+        //  build scene
+        var sceneComputerDailyUse = new ScrollMagic.Scene({
+                triggerElement: this,
+                duration: '90%',
+                triggerHook: 0.9
+            })
+            .setClassToggle(this, 'fade-in')
+            .addIndicators({
+                name: 'fade scene',
+                colorTrigger: 'black',
+                indent: 200,
+                colorStart: 'rgb(228, 32, 185)',
+                colorEnd: 'rgb(65, 228, 32)'
+            })
+            .addTo(scrollMagicController);
     });
 });

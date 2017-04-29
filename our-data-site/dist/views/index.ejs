@@ -3,113 +3,132 @@
         <div class="container">
             <div class="col-md-8 col-md-offset-2">
                 <h1>
-                    <i class="fa fa-heart"></i>
                     IRISH DATA
-                    <i class="fa fa-magic"></i>
                 </h1>
                 <hr>
                 <h2>A series of datasets from the CSO 2016 Census</h2>
                 <p class="lead">This sites uses Highcharts to render the charts and ScrollMagic for appearance.</p>
             </div>
         </div>
-        <i class="fa fa-angle-double-down"></i>
     </header>
 
-
     <main>
+
         <div class="container">
 
+            <div class="container graph">
+                <br>
+                <h1>Population</h1>
+                <img src="images/population.png" alt="Inforamtion Society" style="width:400px;height:400px;">
+                <h2>How many of us there are and where.</h2>
+            </div>
 
-            <div class="row">
+            <div class="graph">
+                <div class="col-md-12">
+                    <%- include('partials/populationNumber') -%>
+                </div>
+            </div>
+
+
+            <div class="container graph">
+                <br>
+                <h1>Information Society</h1>
+                <img src="images/computer.png" alt="Inforamtion Society" style="width:400px;height:400px;">
+                <h2>Some charts on how computers have been adopted in Irish society.</h2>
+            </div>
+            <div class="graph">
                 <div class="col-md-12 ">
-
-
-                    <section class="panel blue">
-                        <%- include('partials/computerShopping') -%>
-                    </section>
-
-                </div>
-
-            </div>
-
-
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="wrap" id="scene-2">
-                        <div class="animation" id="animation-2">
-                            <%- include('partials/computerDailyUse') -%>
-                        </div>
-                    </div>
+                    <%- include('partials/computerShopping') -%>
                 </div>
             </div>
 
-            <div class="row">
+            <div class="graph">
                 <div class="col-md-12">
-                    <div class="wrap" id="scene-3">
-                        <div class="animation" id="animation-3">
-                            <%- include('partials/computerOwnership') -%>
-                        </div>
-                    </div>
+                    <%- include('partials/computerDailyUse') -%>
                 </div>
             </div>
 
-            <div class="row">
+            <div class="graph">
                 <div class="col-md-12">
-                    <div class="wrap" id="scene-4">
-                        <div class="animation" id="animation-4">
-                            <%- include('partials/consumerPriceIndex') -%>
-                        </div>
-                    </div>
+                    <%- include('partials/computerOwnership') -%>
                 </div>
             </div>
 
-            <div class="row">
+
+
+
+            <div class="container graph">
+                <br>
+                <h1>Consumer Prices</h1>
+                <img src="images/prices.png" alt="Inforamtion Society" style="width:400px;height:400px;">
+                <h2>The Irish Consumer Price Index.</h2>
+            </div>
+
+
+
+            <div class="graph">
                 <div class="col-md-12">
-                    <div class="wrap" id="scene-5">
-                        <div class="animation" id="animation-5">
-                            <%- include('partials/health1') -%>
-                        </div>
-                    </div>
+                    <%- include('partials/consumerPriceIndex') -%>
                 </div>
             </div>
 
-            <div class="row">
+
+            <div class="container graph">
+                <br>
+                <h1>Health</h1>
+                <img src="images/health.png" alt="Inforamtion Society" style="width:400px;height:400px;">
+                <h2>Some charts on how healthy we all are.</h2>
+            </div>
+
+
+            <div class="graph">
                 <div class="col-md-12">
-                    <div class="wrap" id="scene-6">
-                        <div class="animation" id="animation-6">
-                            <%- include('partials/health2') -%>
-                        </div>
-                    </div>
+                    <%- include('partials/health1') -%>
+
                 </div>
             </div>
 
-            <div class="row">
+            <div class="graph">
                 <div class="col-md-12">
-                    <div class="wrap" id="scene-7">
-                        <div class="animation" id="animation-7">
-                            <%- include('partials/health3') -%>
-                        </div>
-                    </div>
+                    <%- include('partials/health2') -%>
                 </div>
             </div>
 
-            <div class="row">
+            <div class="graph">
                 <div class="col-md-12">
-                    <div class="wrap" id="scene-8">
-                        <div class="animation" id="animation-8">
-                            <%- include('partials/health4') -%>
-                        </div>
-                    </div>
+                    <%- include('partials/health3') -%>
                 </div>
             </div>
 
-            <div class="row">
+            <div class="graph">
                 <div class="col-md-12">
-                    <div class="wrap" id="scene-9">
-                        <div class="animation" id="animation-9">
-                            <%- include('partials/populationMarriages') -%>
-                        </div>
-                    </div>
+                    <%- include('partials/health4') -%>
+                </div>
+            </div>
+
+            <div class="container graph">
+                <br>
+                <h1>Births</h1>
+                <img src="images/births.png" alt="Inforamtion Society" style="width:400px;height:400px;">
+                <h2>Just Sligo!</h2>
+            </div>
+
+            <div class="graph">
+                <div class="col-md-12">
+                    <%- include('partials/populationBirthsSligo') -%>
+                </div>
+            </div>
+
+            <div class="container graph">
+                <br>
+                <h1>Marriages</h1>
+                <img src="images/marriages.png" alt="Inforamtion Society" style="width:400px;height:400px;">
+                <h2>Just Sligo!</h2>
+            </div>
+
+            <div class="graph">
+                <div class="col-md-12">
+                    <%- include('partials/populationMarriages') -%>
                 </div>
             </div>
 
