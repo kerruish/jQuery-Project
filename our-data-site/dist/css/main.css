@@ -1,0 +1,58 @@
+/*----------------*/
+/*Our custom syles*/
+/*----------------*/
+
+
+
+/*#ica27	{
+	width: 600px;
+	height: 600px;
+}*/
+
+
+
+/* Ignore => Base Styles */
+body { background: #e3e3e3; -webkit-font-smoothing: antialiased; }
+.ScrollSceneIndicators { z-index: 9999999 !important; }
+
+/* Ignore => Useless Header Styles */
+header {
+  text-align: center;
+  background: rgb(76, 156, 26);
+  padding: 150px 0 150px;
+  color: #fff;
+  position: relative;
+}
+header * { text-shadow: 0px 1px 1px rgba(150, 150, 150, 0.35); }
+header h1 { margin-top: 0; font-size: 50px;  }
+header h1 i.fa-heart { color: rgb(221, 75, 80); }
+header h1 i.fa-magic { color: rgb(39, 97, 223); }
+header hr { max-width: 80px; border-top: solid 2px #fff; }
+header h2 { margin-bottom: 30px; }
+header p { margin-bottom: 0px; }
+
+
+/* Create huge scrolling area (imitates height of a page) */
+main { padding: 200px 0 3000px 0; overflow: hidden; }
+
+
+.graph  {
+  text-align: center;
+  width: 100%;
+  height: 400px;
+  opacity: 0;
+  transform: translateX(50px);
+  transition: all 1s ease-out;
+}
+
+.graph.fade-in{
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* SCENE COLORS */
+body {
+  -webkit-transition: all 300ms ease;
+  -moz-transition: all 300ms ease;
+  transition: all 300ms ease;
+}
