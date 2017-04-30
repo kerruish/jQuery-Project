@@ -52,6 +52,11 @@ module.exports = function(grunt) {
                 filter: 'isFile'
             }
         },
+        'json-minify': {
+            build: {
+                files: 'dist/bin/**/*.json'
+            }
+        },
         // jshint: {
         //     files: ['Gruntfile.js', 'src/**/*.js'],
         //     options: {
@@ -75,9 +80,11 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-concat');
     grunt.loadNpmTasks('grunt-concat-css');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
+    grunt.loadNpmTasks('grunt-json-minify');
+    grunt.loadNpmTasks('grunt-json-minify');
 
     grunt.registerTask('test', ['jshint']);
 
-    grunt.registerTask('default', ['jshint', 'concat', 'uglify', 'concat_css', 'cssmin']);
+    grunt.registerTask('default', ['jshint', 'concat', 'uglify', 'concat_css', 'cssmin', 'json-minify']);
 
 };
