@@ -669,58 +669,65 @@ function drawChart() {
                     verticalAlign: 'top',
                     x: 0,
                     y: 0,
-                    floating: true,
+                    floating: false,
                     borderWidth: 1,
                     backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
-                    shadow: true
+                    shadow: true,
+
+                },
+                credits: {
+                    enabled: false,
+                },
+                exporting: {
+                    enabled: false,
                 },
                 series: [{
-                    name: 'CPI Change % - All Items',
+                    name: 'All Items',
                     lineWidth: 5,
                     dashStyle: 'shortdash',
                     data: contextCPA01.changePercentageAll
                 }, {
-                    name: 'CPI Change % - Alcohol, beverages and tobacco',
+                    name: 'Alcohol, beverages and tobacco',
                     data: contextCPA01.changePercentageABT,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Clothing and Footware',
+                    name: 'Clothing and Footware',
                     data: contextCPA01.changePercentageCF,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Housing, water, electricity, gas and other fuels',
+                    name: 'Housing and utilities',
                     data: contextCPA01.changePercentageHWEGF,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Furnishings, household equipment and routine household maintenance',
+                    name: 'Furnishings and the household',
                     data: contextCPA01.changePercentageFH,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Health',
+                    name: 'Health',
                     data: contextCPA01.changePercentageH,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Transport',
+                    name: 'Transport',
                     data: contextCPA01.changePercentageT,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Communications',
+                    name: 'Communications',
                     data: contextCPA01.changePercentageC,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Recreation and culture',
+                    name: 'Recreation and culture',
                     data: contextCPA01.changePercentageRC,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Education',
+                    name: 'Education',
                     data: contextCPA01.changePercentageEd,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Restaurants and hotels',
+                    name: 'Restaurants and hotels',
                     data: contextCPA01.changePercentageRH,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Miscellaneous goods and services',
+                    name: 'Miscellaneous goods and services',
                     data: contextCPA01.changePercentageMiscGS,
                     visible: false
                 }]
@@ -816,6 +823,48 @@ $(function() {
 
     var scrollMagicController = new ScrollMagic.Controller();
 
+    // var pinNavScence = new ScrollMagic.Scene({
+    //         triggerElement: '#nav',
+    //         triggerHook: 0,
+    //         duration: '30%'
+    //     })
+    //     .setPin('#nav', {
+    //         pushFollowers: true
+    //     })
+    //     .addTo(scrollMagicController);
+
+
+    var pinIntroScence = new ScrollMagic.Scene({
+            triggerElement: '#intro',
+            triggerHook: 0,
+            duration: '30%'
+        })
+        .setPin('#intro', {
+            pushFollowers: false
+        })
+        .addTo(scrollMagicController);
+
+
+
+    //  loop trhough each .category element
+    $('.category').each(function() {
+        //  build scene
+        var sceneComputerDailyUse = new ScrollMagic.Scene({
+                triggerElement: this,
+                duration: '90%',
+                triggerHook: 0.5
+            })
+            .setClassToggle(this, 'fade-in')
+            // .addIndicators({
+            //     name: 'fade scene',
+            //     colorTrigger: 'black',
+            //     indent: 200,
+            //     colorStart: 'rgb(228, 32, 185)',
+            //     colorEnd: 'rgb(65, 228, 32)'
+            // })
+            .addTo(scrollMagicController);
+    });
+
 
 
     //  loop trhough each .graph element
@@ -827,13 +876,13 @@ $(function() {
                 triggerHook: 0.9
             })
             .setClassToggle(this, 'fade-in')
-            .addIndicators({
-                name: 'fade scene',
-                colorTrigger: 'black',
-                indent: 200,
-                colorStart: 'rgb(228, 32, 185)',
-                colorEnd: 'rgb(65, 228, 32)'
-            })
+            // .addIndicators({
+            //     name: 'fade scene',
+            //     colorTrigger: 'black',
+            //     indent: 200,
+            //     colorStart: 'rgb(228, 32, 185)',
+            //     colorEnd: 'rgb(65, 228, 32)'
+            // })
             .addTo(scrollMagicController);
     });
 });

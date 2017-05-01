@@ -1,26 +1,33 @@
 <%- include('partials/_header') -%>
+
+
     <header>
-        <div class="container">
+        <div id='intro' class="container">
             <div class="col-md-8 col-md-offset-2">
+                <img src="images/irish.png" alt="Irish Data" style="width:200px;height:200px;">
                 <h1>
-                    IRISH DATA
-                </h1>
+                        IRISH DATA
+                    </h1>
                 <hr>
                 <h2>A series of datasets from the CSO 2016 Census</h2>
                 <p class="lead">This sites uses Highcharts to render the charts and ScrollMagic for appearance.</p>
+                <p>No modifications to the datasets' data has been made and are those provided by the CSO. The datasets have been converted from JSON-stat to JSON with the node package jsonstat-conv</p>
+                <p><br><b>This site is for demonstration only.</b></p>
             </div>
         </div>
     </header>
 
+
+
     <main>
 
-        <div class="container">
+        <div id='population' class="container">
 
-            <div class="container graph">
+            <div class="container category">
                 <br>
-                <h1>Population</h1>
-                <img src="images/population.png" alt="Inforamtion Society" style="width:200px;height:200px;">
-                <h2>How many of us there are and where.</h2>
+                <h2>Population</h2>
+                <img src="images/population.png" alt="Population" style="width:100px;height:100px;">
+                <h3>How many of us there are and where.</h3>
             </div>
 
             <div class="graph">
@@ -30,11 +37,11 @@
             </div>
 
 
-            <div class="container graph">
+            <div id='computer' class="container category">
                 <br>
-                <h1>Information Society</h1>
-                <img src="images/computer.png" alt="Inforamtion Society" style="width:200px;height:200px;">
-                <h2>Some charts on how computers have been adopted in Irish society.</h2>
+                <h2>Information Society</h2>
+                <img src="images/computer.png" alt="Inforamtion Society" style="width:100px;height:100px;">
+                <h3>Some charts on how computers have been adopted in Irish society.</h3>
             </div>
             <div class="graph">
                 <div class="col-md-12 ">
@@ -57,11 +64,11 @@
 
 
 
-            <div class="container graph">
+            <div id='prices' class="container category">
                 <br>
-                <h1>Consumer Prices</h1>
-                <img src="images/prices.png" alt="Inforamtion Society" style="width:200px;height:200px;">
-                <h2>The Irish Consumer Price Index.</h2>
+                <h2>Consumer Prices</h2>
+                <img src="images/prices.png" alt="Consumer Price Index" style="width:100px;height:100px;">
+                <h3>The Irish Consumer Price Index.</h3>
             </div>
 
 
@@ -73,11 +80,11 @@
             </div>
 
 
-            <div class="container graph">
+            <div id='health' class="container category">
                 <br>
-                <h1>Health</h1>
-                <img src="images/health.png" alt="Inforamtion Society" style="width:200px;height:200px;">
-                <h2>Some charts on how healthy we all are.</h2>
+                <h2>Health</h2>
+                <img src="images/health.png" alt="Health" style="width:100px;height:100px;">
+                <h3>Some charts on how healthy we all are.</h3>
             </div>
 
 
@@ -106,11 +113,11 @@
                 </div>
             </div>
 
-            <div class="container graph">
+            <div id='births' class="container category">
                 <br>
-                <h1>Births</h1>
-                <img src="images/births.png" alt="Inforamtion Society" style="width:200px;height:200px;">
-                <h2>Just Sligo!</h2>
+                <h2>Births</h2>
+                <img src="images/births.png" alt="Births" style="width:100px;height:100px;">
+                <h3>Just Sligo!</h3>
             </div>
 
             <div class="graph">
@@ -119,11 +126,11 @@
                 </div>
             </div>
 
-            <div class="container graph">
+            <div id='marriages' class="container category">
                 <br>
-                <h1>Marriages</h1>
-                <img src="images/marriages.png" alt="Inforamtion Society" style="width:200px;height:200px;">
-                <h2>Just Sligo!</h2>
+                <h2>Marriages</h2>
+                <img src="images/marriages.png" alt="Marriages" style="width:100px;height:100px;">
+                <h3>Just Sligo!</h3>
             </div>
 
             <div class="graph">

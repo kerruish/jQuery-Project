@@ -81,58 +81,65 @@ $(document).ready(function() {
                     verticalAlign: 'top',
                     x: 0,
                     y: 0,
-                    floating: true,
+                    floating: false,
                     borderWidth: 1,
                     backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
-                    shadow: true
+                    shadow: true,
+
+                },
+                credits: {
+                    enabled: false,
+                },
+                exporting: {
+                    enabled: false,
                 },
                 series: [{
-                    name: 'CPI Change % - All Items',
+                    name: 'All Items',
                     lineWidth: 5,
                     dashStyle: 'shortdash',
                     data: contextCPA01.changePercentageAll
                 }, {
-                    name: 'CPI Change % - Alcohol, beverages and tobacco',
+                    name: 'Alcohol, beverages and tobacco',
                     data: contextCPA01.changePercentageABT,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Clothing and Footware',
+                    name: 'Clothing and Footware',
                     data: contextCPA01.changePercentageCF,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Housing, water, electricity, gas and other fuels',
+                    name: 'Housing and utilities',
                     data: contextCPA01.changePercentageHWEGF,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Furnishings, household equipment and routine household maintenance',
+                    name: 'Furnishings and the household',
                     data: contextCPA01.changePercentageFH,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Health',
+                    name: 'Health',
                     data: contextCPA01.changePercentageH,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Transport',
+                    name: 'Transport',
                     data: contextCPA01.changePercentageT,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Communications',
+                    name: 'Communications',
                     data: contextCPA01.changePercentageC,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Recreation and culture',
+                    name: 'Recreation and culture',
                     data: contextCPA01.changePercentageRC,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Education',
+                    name: 'Education',
                     data: contextCPA01.changePercentageEd,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Restaurants and hotels',
+                    name: 'Restaurants and hotels',
                     data: contextCPA01.changePercentageRH,
                     visible: false
                 }, {
-                    name: 'CPI Change % - Miscellaneous goods and services',
+                    name: 'Miscellaneous goods and services',
                     data: contextCPA01.changePercentageMiscGS,
                     visible: false
                 }]

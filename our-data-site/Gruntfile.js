@@ -57,17 +57,6 @@ module.exports = function(grunt) {
                 files: 'dist/bin/**/*.json'
             }
         },
-        // jshint: {
-        //     files: ['Gruntfile.js', 'src/**/*.js'],
-        //     options: {
-        //         globals: {
-        //             jQuery: true,
-        //             console: true,
-        //             module: true,
-        //             document: true
-        //         }
-        //     },
-        // },
         watch: {
             files: ['<%= jshint.files %>'],
             tasks: ['jshint', 'qunit']
