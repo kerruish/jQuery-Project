@@ -1,4 +1,4 @@
-console.log("LOADED: computerDailyUse");
+//  Creates Highchart for Computer Use from ICA18
 $(document).ready(function() {
 
     contextICA18 = {}; // global namespace variable

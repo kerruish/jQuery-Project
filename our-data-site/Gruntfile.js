@@ -1,5 +1,4 @@
 module.exports = function(grunt) {
-
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
         concat: {
@@ -42,10 +41,11 @@ module.exports = function(grunt) {
         jshint: {
             ignore_warning: {
                 options: {
-                    '-W015': true,
+                    //  Supress: "['{a}'] is better written in dot notation."
+                    //  Unable to change dataset
                     '-W069': true,
-                    '-W106': true,
-                    '-W034': true,
+                    //"Use '{a}' to compare with '{b}'.",
+                    //  Unable to change dataset
                     "-W041": false
                 },
                 src: 'src/**/*.js',

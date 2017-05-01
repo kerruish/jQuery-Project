@@ -1,4 +1,5 @@
-console.log("LOADED: computerOwnership");
+//  Creates Highchart for Households with computers from ICA27
+
 // Global colour style variables
 var pieColourBackground = 'white';
 var pieColourPrimary = '#9C27B0';

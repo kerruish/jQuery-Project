@@ -1,4 +1,4 @@
-console.log("LOADED: computerShopping");
+//  Creates Highchart for Online Shopping  from ICA56
 $(document).ready(function() {
 
     contextICA56 = {}; // global namespace variable

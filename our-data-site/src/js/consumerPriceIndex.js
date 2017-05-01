@@ -1,3 +1,4 @@
+//  Creates Highchart for Consumer Price Index from CPA01
 $(document).ready(function() {
     contextCPA01 = {}; // global namespace variable
     contextCPA01.changePercentageAll = [];

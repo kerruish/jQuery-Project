@@ -1,4 +1,4 @@
-console.log("LOADED: computerDailyUse");
+//  Creates Highchart for Computer Use from ICA18
 $(document).ready(function() {
 
     contextICA18 = {}; // global namespace variable
@@ -111,7 +111,8 @@ $(document).ready(function() {
         });
     }
 });
-;console.log("LOADED: computerOwnership");
+;//  Creates Highchart for Households with computers from ICA27
+
 // Global colour style variables
 var pieColourBackground = 'white';
 var pieColourPrimary = '#9C27B0';
@@ -467,7 +468,7 @@ $(document).ready(function() {
 //         }]
 //     });
 // });
-;console.log("LOADED: computerShopping");
+;//  Creates Highchart for Online Shopping  from ICA56
 $(document).ready(function() {
 
     contextICA56 = {}; // global namespace variable
@@ -586,7 +587,8 @@ function drawChart() {
         }]
     });
 }
-;$(document).ready(function() {
+;//  Creates Highchart for Consumer Price Index from CPA01
+$(document).ready(function() {
     contextCPA01 = {}; // global namespace variable
     contextCPA01.changePercentageAll = [];
     contextCPA01.changePercentageABT = [];
