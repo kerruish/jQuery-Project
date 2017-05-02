@@ -6,10 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "JUSTYNA KORCZYNSKA KADZIEL, RUBAB RAMZAN, BRYAN KERRUISH",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.17.1",
     "ejs": "^2.5.6",
     "express": "^4.15.2",
     "scrollmagic": "^2.0.5"

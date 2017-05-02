@@ -1,5 +1,4 @@
 var express = require('express');
-var bodyParser = require('body-parser');
 var path = require('path');
 
 var app = express();
@@ -8,17 +7,13 @@ var app = express();
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'dist/views'));
 
-//  Body Parser Middleware
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({extended: false}));
-
 //  Set static Path
 app.use(express.static(path.join(__dirname, 'dist')));
 
-app.get('/', function(req, res){
-  res.render('index.ejs');
+app.get('/', function(req, res) {
+    res.render('index.ejs');
 });
 
-app.listen(3000, function(){
-  console.log('Server started on Port 3000...');
+app.listen(3000, function() {
+    console.log('Server started on Port 3000...');
 });

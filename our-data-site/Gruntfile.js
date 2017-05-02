@@ -58,8 +58,14 @@ module.exports = function(grunt) {
             }
         },
         watch: {
-            files: ['<%= jshint.files %>'],
-            tasks: ['jshint', 'qunit']
+            js: {
+                files: ['src/**/*.js'],
+                tasks: ['jshint', 'concat', 'uglify']
+            },
+            css: {
+                files: ['src/**/*.css'],
+                tasks: ['concat_css', 'cssmin']
+            }
         },
     });
 
@@ -73,7 +79,6 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-json-minify');
 
     grunt.registerTask('test', ['jshint']);
-
     grunt.registerTask('default', ['jshint', 'concat', 'uglify', 'concat_css', 'cssmin', 'json-minify']);
 
 };

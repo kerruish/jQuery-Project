@@ -1,5 +1,4 @@
 $(document).ready(function() {
-
     $.getJSON("bin/EP001.json", function(data) {
 
         var tbl = "<div id='col1'><table style='display:none'  id='chart1' class='highchart' data-graph-type='column' data-graph-container-before='1' data-graph-height='00' data-graph-width='600' >";
